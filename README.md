@@ -15,7 +15,7 @@ This Python program demonstrates various list operations, such as appending, ins
 ## How to Run
 
 1. Make sure you have Python installed on your machine.
-2. Copy the Python code into a file, for example, `list_operations.py`.
+2. Copy the Python code into a file, for example, `index.py`.
 3. Run the Python program using your terminal or IDE.
 
 ```bash
